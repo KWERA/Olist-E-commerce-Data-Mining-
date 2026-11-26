@@ -1,7 +1,5 @@
 # Olist E-commerce Data Mining
 
-**Course.** DSC8307 Data Mining, Modelling and Analytics (Advent 2026), MSc Data Science, Uganda Christian University
-
 This project analyses the Brazilian E-Commerce Public Dataset by Olist. It covers 99,441 orders placed between Sep 2016 and Oct 2018, spread over 9 linked tables. All the work is in one notebook, `B35098_Olist_datasets_analysis.ipynb`.
 
 ## Tasks
